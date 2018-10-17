@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SIGU</string>
+    <string name="button_login">Log In</string>
+    <string name="title_activity_main">SIGU</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Cerrar menu</string>
+
+    <string name="action_settings">Opciones</string>
+</resources>
